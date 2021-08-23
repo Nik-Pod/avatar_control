@@ -1,0 +1,8 @@
+prefix=/home/pi/avatar/devel
+
+Name: avatar_adrian
+Description: Description of avatar_adrian
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

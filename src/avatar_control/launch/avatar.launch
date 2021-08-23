@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="avatar_control" type="tcp_server.py" name="tcp_server"/>
+	<node pkg="avatar_control" type="dxl.py" name="dxl"/>
+	<node pkg="avatar_control" type="led_control.py" name="led_control"/>
+</launch>

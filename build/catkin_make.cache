@@ -1,0 +1,2 @@
+avatar_control:launch_test
+-DCATKIN_DEVEL_PREFIX=/home/pi/avatar/devel -DCMAKE_INSTALL_PREFIX=/home/pi/avatar/install -G Unix Makefiles
